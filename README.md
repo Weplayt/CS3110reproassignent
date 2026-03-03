@@ -22,3 +22,5 @@ that we can use modulo to treat the 0's and 1's as a state the infinite shares
 So in that case, we can just say "oh, this string isn't recognized since there isn't a multiple of 0's or 1's for it to match
 But I do wonder how an automa can handle it? Since wouldn't there be an infinite amount of states?
 Would that make it an _infinite_ automa? If that's so, I guess it can't be an NFA then
+
+Small note, "1013" is just an extra I did as 10 OR 13 NFA
